@@ -16,6 +16,7 @@ Sebastian Alfredo Panesso Laverde
 ### Creation view programmatically
 ### Creation view by storyboard
 ### Creation .xib view for list cells
+### Animations for showing Vieo Dialog View
 
 
 
